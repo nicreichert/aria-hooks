@@ -1,0 +1,17 @@
+{
+  "name": "aria-hooks",
+  "version": "0.1.0",
+  "description": "Collection of hooks with props to assist with creation of accessible components",
+  "main": "dist/index.js",
+  "author": "Nic Reichert",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "react": "^17.0.2",
+    "typescript": "^4.2.4"
+  }
+}

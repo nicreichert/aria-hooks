@@ -9,7 +9,7 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "esModuleInterop": true,
-    "outDir": "./es",
+    "outDir": "./dist",
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "src/**/*.test.ts", "src/**/*.test.tsx"]
